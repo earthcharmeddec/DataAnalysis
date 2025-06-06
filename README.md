@@ -19,6 +19,8 @@ Shown in the picture below is the setting that was changed - the locale for the 
 
 This setting however didn't change much in the report or the table and the regional setting of the porject needed to be changed.
 
+     ![image](https://github.com/user-attachments/assets/3347fb7d-8452-499b-a88c-db28412eb420)
+
 3. Next problems was the graph was not displaying the ages in chronological age order.
 
      For this, I had to click on the three dots on the visual itself to sort the x axis by the Column that I wanted (Age)
