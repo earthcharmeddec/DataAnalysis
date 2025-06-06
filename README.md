@@ -25,7 +25,8 @@ This setting however didn't change much in the report or the table and the regio
 
      For this, I had to click on the three dots on the visual itself to sort the x axis by the Column that I wanted (Age)
 4. The data was also manually filtered to remove the total population row from display.
-**Conclusion:**
+
+</br>**Conclusion:**
 
 The conclusion I obtain from this data is that there are more citizen in Karlsruhe comparedd to foreigners. I need to Transform the data further in order to obtain any further use of the data. 
 It would be interesting to compare this data to those from cities such as Frankfurt, Munich, and Berlin. I created the V.2 visual to help me find out if the same ratio of  males and females in Karlsruhe are foreigners. Even though it seems the foreigner males and females are in the same ratio, the visual needs further configuration to be able to confirm this hypothesis. 
