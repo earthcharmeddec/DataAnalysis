@@ -1,5 +1,4 @@
 # DataAnalysis of the 2022 Karlsruhe Consensus
-My different Data Analysis projects
 
 Chart to show the different percentage of the population by age (V.1)
 ![image](https://github.com/user-attachments/assets/7b63127c-1ec3-42e1-a901-0163029a7718)
